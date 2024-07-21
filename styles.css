@@ -1,0 +1,25 @@
+h1 {
+  text-align: center;
+}
+
+#container {
+  display: flex;
+  justify-content: center;
+}
+
+.buttons {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 25px;
+  gap: 10px;
+}
+
+#row {
+  border: 1px solid black;
+}
+
+#column {
+  border: 1px solid black;
+  height: 25px;
+  width: 25px;
+}
